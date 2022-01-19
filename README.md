@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Speedx2
 - 👀 I’m interested in learning coding discord bot
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on working with developers
-- 📫 How to reach me discord :- speedx2#8069
+- 😏 Learning How The Internet Word 
+- 📫 How to reach me :- Reach Me On Discord, Speedx2#8069
+- 🔗 Join My Discord Server :- https://discord.gg/shtMdyphkH
 
 <!---
 Speedx2/Speedx2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
